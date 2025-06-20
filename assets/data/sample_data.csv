@@ -1,0 +1,5 @@
+name,date,total_cholesterol,ldl,hdl,triglycerides,creatinine,vitamin_d,vitamin_b12,hba1c
+John Doe,2024-03-01,180,120,45,150,1.1,30,350,5.4
+John Doe,2024-04-01,175,115,50,140,0.9,32,420,5.2
+John Doe,2024-05-01,170,110,52,135,0.8,35,460,5.1
+John Doe,2024-06-01,165,105,48,120,0.85,38,490,5.3
