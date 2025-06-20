@@ -43,7 +43,7 @@ function handleFileUpload(event) {
     const formData = new FormData();
     formData.append('file', file);
 
-    fetch('https://eco-backend.onrender.com/parse_pdf', {
+    fetch('https://ecotown-backend-1.onrender.com/', {
   method: 'POST',
   body: formData
 })
